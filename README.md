@@ -7,4 +7,6 @@
 
 <img src = "https://github.com/ritikdh440/Smart-glove/blob/master/Sample%20Images/IMG_20200303_115848.jpg">
 <h4> Video Sample </h4>
-<img src = "https://github.com/ritikdh440/Smart-glove/blob/master/Sample%20Video.mp4">
+<iframe width="420" height="315"
+<src = "https://github.com/ritikdh440/Smart-glove/blob/master/Sample%20Video.mp4">
+</iframe>
