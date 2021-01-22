@@ -1,4 +1,8 @@
- # Smart-glove
-With my team we delevoped a smart glove for helping the deaf, dumb peoples.for making our glove cost efficent product, we develop the smart glove by using a arduino nano, a bluetooth module as with this we also a develop an android app for the data transmisson.we used HC05 for bluetooth transmisssion for this.and an app to run the test
-we used hc05
+ 
+Smart Glove, a glove which fills the communication gap to them are impaired and finding difficulities to intract with the other human beings.
+
+Cost Efficient - for making our glove cost efficent product, we develop the smart glove by using a arduino nano, a bluetooth module(HC-05), aynon can access to this by only 275 INR.
+
+Tools and Technologies - Arduino IDE, Bluetooth module, Arduino nano, Android Studio.
+
 <img src = "https://github.com/ritikdh440/Smart-glove/blob/master/Sample%20Images/IMG_20200303_115848.jpg">
