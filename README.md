@@ -3,7 +3,7 @@
 
 <h2>Cost Efficient </h2> for making our glove cost efficent product, we develop the smart glove by using a arduino nano, a bluetooth module(HC-05), aynon can access to this by only 275 INR.
 
-<h3>Tools and Technologies</h3> Arduino IDE, Bluetooth module, Arduino nano, 
+<h3>Tools and Technologies</h3> Arduino IDE, Bluetooth module, Arduino nano, MIT APP INVENTOR
 
 <img src = "https://github.com/ritikdh440/Smart-glove/blob/master/Sample%20Images/IMG_20200303_115848.jpg">
  
